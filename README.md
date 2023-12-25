@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayon Ghosh</h1>
-<h3 align="center">Aspiring coder, dreaming in algorithms.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Ayon Ghosh, on a journey as an aspiring coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon7544&label=Profile%20views&color=0e75b6&style=flat" alt="ayon7544" /> </p>
 
