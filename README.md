@@ -143,15 +143,6 @@ Smoker-Detector              :2025-07-01, 1m
 ## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayon7544&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayon7544&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
   <a href="mailto:ayonghosh1114@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
   <a href="https://linkedin.com/in/ayon-ghosh-128691239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://facebook.com/profile.php?id=100068441205320" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/></a>
