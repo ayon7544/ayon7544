@@ -34,13 +34,22 @@ I am a self-driven software engineer with a passion for building scalable, user-
 
 ## 📊 Skill Proficiency
 
-<p align="left">
-  <img src="https://progress-bar.dev/90/?title=C%2B%2B" alt="C++ proficiency"/>&nbsp;
-  <img src="https://progress-bar.dev/85/?title=Python" alt="Python proficiency"/>&nbsp;
-  <img src="https://progress-bar.dev/80/?title=Java" alt="Java proficiency"/>&nbsp;
-  <img src="https://progress-bar.dev/75/?title=JavaScript" alt="JS proficiency"/>&nbsp;
-  <img src="https://progress-bar.dev/70/?title=Django" alt="Django proficiency"/>
-</p>
+I've visualized proficiency for key skills using shields.io badges, which reliably render on GitHub:
+
+* **C++**
+  ![C++ 90%](https://img.shields.io/badge/C%2B%2B-90%25-blue)
+
+* **Python**
+  ![Python 85%](https://img.shields.io/badge/Python-85%25-yellow)
+
+* **Java**
+  ![Java 80%](https://img.shields.io/badge/Java-80%25-orange)
+
+* **JavaScript**
+  ![JavaScript 75%](https://img.shields.io/badge/JavaScript-75%25-green)
+
+* **Django**
+  ![Django 70%](https://img.shields.io/badge/Django-70%25-brightgreen)
 
 ---
 
