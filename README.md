@@ -97,7 +97,41 @@ University of Asia Pacific, Dhaka  *(2021 – 2025)*
 
 ---
 
+## 🕒 Career Timeline
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+axisFormat  %b %Y
+section Education
+Bachelor of Computer Science  :done, 2021-01-01, 4y
+section Experience
+GIS Trainee                  :done, 2025-02-01, 1m
+Web Developer Intern         :active, 2025-03-01, 4m
+section Projects
+Utopia                       :active, 2025-04-01, 2m
+Medi-Mind                    :2025-06-01, 3m
+Smoker-Detector              :2025-07-01, 1m
+```
+
+---
+
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayon7544&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayon7544&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+## 📊 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ayon7544" alt="Contribution chart" />
+</p>
+
+---
+
+## 📫 Connect with Me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayon7544&show_icons=true&theme=dark" alt="GitHub Stats" />
