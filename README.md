@@ -23,7 +23,7 @@ I am a self-driven software engineer with a passion for building scalable, user-
 ## 🛠 Skills
 
 * **Languages:** C++, Java, Python, JavaScript, Kotlin
-* **Web & Backend:** Django, Flask, (Express), ReactJS
+* **Web & Backend:** Django, Flask, ReactJS
 * **Databases:** MongoDB, MySQL, PostgreSQL
 * **DevOps & Hosting:** Docker, GitHub Actions, Render, Vercel
 * **GIS & CAD:** ArcGIS, QGIS, AutoCAD, PostGIS
