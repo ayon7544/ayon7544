@@ -58,9 +58,8 @@ I've visualized proficiency for key skills using shields.io badges, which reliab
 **Web Developer Intern** @ Eutropia IT
 *Mar 2025 – Jun 2025*
 
-* Developed responsive web applications with **React**, **Next.js**, and **Node.js**, integrating pre-trained AI models for enhanced UX.
-* Architected RESTful APIs using Express and MySQL; implemented authentication with JWT & OAuth2.
-* Automated CI/CD pipelines using GitHub Actions and deployed to Render & Vercel.
+* Developed responsive web applications with **React** integrating pre-trained AI models for enhanced UX.
+* deployed to Render & Vercel.
 
 **GIS Trainee** @ Dhaka WASA
 *Feb 2025 – Mar 2025*
