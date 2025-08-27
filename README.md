@@ -23,12 +23,12 @@ I am a self-driven software engineer with a passion for building scalable, user-
 ## 🛠 Skills
 
 * **Languages:** C++, Java, Python, JavaScript, Kotlin
-* **Web & Backend:** Django, Flask, Node.js (Express), ReactJS, Next.js
+* **Web & Backend:** Django, Flask, (Express), ReactJS
 * **Databases:** MongoDB, MySQL, PostgreSQL
 * **DevOps & Hosting:** Docker, GitHub Actions, Render, Vercel
 * **GIS & CAD:** ArcGIS, QGIS, AutoCAD, PostGIS
 * **Mobile & Embedded:** Android Studio, Arduino
-* **Others:** Git, Linux, RESTful APIs, CI/CD, Agile Methodologies
+* **Others:** Git, Linux, Agile Methodologies
 
 <!-- Skill Proficiency Bars -->
 
@@ -46,7 +46,7 @@ I've visualized proficiency for key skills using shields.io badges, which reliab
   ![Java 80%](https://img.shields.io/badge/Java-80%25-orange)
 
 * **JavaScript**
-  ![JavaScript 75%](https://img.shields.io/badge/JavaScript-75%25-green)
+  ![JavaScript 60%](https://img.shields.io/badge/JavaScript-60%25-green)
 
 * **Django**
   ![Django 70%](https://img.shields.io/badge/Django-70%25-brightgreen)
