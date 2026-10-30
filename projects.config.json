@@ -1,0 +1,19 @@
+{
+  "username": "ayon7544",
+  "includeTopic": "showcase",
+  "includePrivate": true,
+  "affiliation": "owner",
+  "categories": {
+    "web":    { "title": "🌐 Web platforms & backends", "radius": 120, "color": "#38bdf8" },
+    "mobile": { "title": "📱 Mobile apps",              "radius": 205, "color": "#a78bfa" },
+    "lab":    { "title": "🔬 Labs, hardware & fields",  "radius": 290, "color": "#f472b6" }
+  },
+  "overrides": {
+    "example-repo-name": {
+      "title": "SwiftCart",
+      "emoji": "🛒",
+      "category": "web",
+      "description": "Optional: overrides the repo's About text"
+    }
+  }
+}
